@@ -1,5 +1,4 @@
 <h1 align="center">Hey there! I'm Alex Rodriguez 👋 </h1>
-<h3 align="center">🚀 Web Developer  |  Devops  🚀</h3>
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://media.giphy.com/media/tOFKFDbeh9V7y/source.gif" />
 <div align="left"> 
